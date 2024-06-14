@@ -1,1 +1,1 @@
-This is  Lorry class
+This is  Lorry class. It's for heavy duty.
